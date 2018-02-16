@@ -114,7 +114,10 @@
 </td></tr>
 </table>
 
-<h2>Downloads:</h2>
+<h2>Downloads #1:</h2>
+<a href="https://github.com/angelcoinmoney/angelcoin/releases" target="_blank">GitHub Releases</a>
+
+<h2>Downloads #2:</h2>
 <table class="t3">
 <tr><caption>Portable x64bit versions for Windows OS:</caption></tr>
 <tr><td><a href="https://drive.google.com/open?id=1h68hy70cCs0pUY_aWqBVi3BbouVo2yXL" target="_blank">Angelcoin-x64-v1.0.0.0.zip</a></td><td>&#160;<a href="https://drive.google.com/open?id=1dJc_0gkuWRtLZ4meiuGdoGZ473CX96oB" target="_blank">Angelcoin-x64-v1.0.0.0.zip.sha512</a></td><td>&#160;<a href="https://drive.google.com/open?id=1zn6BEpEVDBRV6zqjwz-FG1JXJsFC62NM" target="_blank">Angelcoin-x64-v1.0.0.0-OpenCL.zip</a></td><td>&#160;<a href="https://drive.google.com/open?id=18eoP11YFAlH-WJ3w-62G0YmWIigv8UbZ" target="_blank">Angelcoin-x64-v1.0.0.0-OpenCL.zip.sha512</a></td></tr>
