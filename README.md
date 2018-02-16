@@ -83,7 +83,7 @@
 <tr><td>25.</td><td>Website</td><td><a href="http://www.angelcoin.money" target="_blank">www.angelcoin.money</a></td></tr>
 <tr><td>26.</td><td>[MainNet] Block Explorer</td><td><a href="https://www.angelcoin.money/BlockExplorer/" target="_blank">RPC Ace</a></td></tr>
 <tr><td>27.</td><td>[TestNet] Block Explorer</td><td><a href="https://www.angelcoin.money/BlockExplorer-TestNet/" target="_blank">RPC Ace</a></td></tr>
-<tr><td>28.</td><td>Announcement</td><td><a href="bitcointalk.org" target="_blank">BitcoinTalk</a></td></tr>
+<tr><td>28.</td><td>Announcement</td><td><a href="https://bitcointalk.org/index.php?topic=2961483" target="_blank">BitcoinTalk</a></td></tr>
 <tr><td>29.</td><td>Source code</td><td><a href="https://github.com/angelcoinmoney/angelcoin" target="_blank">GitHub</a></td></tr>
 <tr><td>30.</td><td>Market Capitalization</td><td>soon</td></tr>
 <tr><td>31.</td><td>Exchange</td><td>soon</td></tr>
