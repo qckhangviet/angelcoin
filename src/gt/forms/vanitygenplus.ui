@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+	<class>VanitygenPlus</class>
+	<widget class="QWidget" name="VanitygenPlus">
+		<property name="geometry">
+			<rect>
+				<x>0</x>
+				<y>0</y>
+				<width>573</width>
+				<height>342</height>
+			</rect>
+		</property>
+		<property name="windowTitle">
+			<string>Form</string>
+		</property>
+		<layout class="QVBoxLayout" name="QVBoxLayout_1">
+			<item>
+				<layout class="QHBoxLayout" name="QHBoxLayout_1">
+					<item>
+						<widget class="QComboBox" name="qcombobox_1">
+							<property name="toolTip">
+								<string>Choose from more than 90 cryptocurrencies or set your own parameters as select "custom" (2nd option)</string>
+							</property>
+							<item>
+								<property name="text">
+									<string>custom</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>ALC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>ALCtest</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>BTC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>BTCtest</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>BTCsw</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>42</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>AC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>AIB</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>ANC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>ARS</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>ATMOS</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>AUR</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>AXE</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>BLK</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>BQC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>BTCD</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>CCC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>CCN</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>CDN</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>CLAM</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>CNC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>CNOTE</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>CON</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>CRW</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>DASH</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>DEEPONION</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>DGB</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>DGC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>DMD</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>DOGED</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>DOGE</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>DOPE</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>DVC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>EFL</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>EMC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>EXCL</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>FAIR</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>FLOZ</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>FTC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>GAME</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>GAP</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>GCR</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>GRC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>GRLC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>GRS</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>GUN</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>HAM</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>HBN</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>HODL</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>IXC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>JBS</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>LBRY</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>LEAF</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>LTC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>MMC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>MONA</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>MUE</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>MYRIAD</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>MZC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>NEET</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>NEOS</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>NLG</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>NMC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>NVC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>NYAN</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>OK</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>OMC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>PIGGY</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>PINK</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>PIVX</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>PKB</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>PND</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>POT</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>PPC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>PTC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>PTS</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>QTUM</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>RBY</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>RDD</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>RIC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>SCA</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>SDC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>SKC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>SPR</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>START</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>SXC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>TPC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>UIS</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>UNO</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>VIA</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>VPN</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>VTC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>WDC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>WKC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>WUBS</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>XC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>XPM</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>YAC</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>ZNY</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>ZOOM</string>
+								</property>
+							</item>
+							<item>
+								<property name="text">
+									<string>ZRC</string>
+								</property>
+							</item>
+						</widget>
+					</item>
+					<item>
+						<widget class="QLineEdit" name="qlineedit_1">
+							<property name="toolTip">
+								<string>Your Pattern</string>
+							</property>
+							<property name="maxLength">
+								<number>250</number>
+							</property>
+							<property name="text">
+								<string></string>
+							</property>
+						</widget>
+					</item>
+				</layout>
+			</item>
+			<item>
+				<layout class="QHBoxLayout" name="QHBoxLayout_2">
+					<item>
+						<widget class="QComboBox" name="qcombobox_2">
+						</widget>
+					</item>
+					<item>
+						<layout class="QVBoxLayout" name="QVBoxLayout_2">
+							<item>
+								<widget class="QPushButton" name="qpushbutton_11">
+									<property name="toolTip">
+										<string>Add permanent record</string>
+									</property>
+									<property name="text">
+										<string>+</string>
+									</property>
+								</widget>
+							</item>
+							<item>
+								<widget class="QPushButton" name="qpushbutton_12">
+									<property name="toolTip">
+										<string>Remove permanent record</string>
+									</property>
+									<property name="text">
+										<string>-</string>
+									</property>
+								</widget>
+							</item>
+						</layout>
+					</item>
+				</layout>
+			</item>
+			<item>
+				<layout class="QHBoxLayout" name="QHBoxLayout_3">
+					<item>
+						<widget class="QPushButton" name="qpushbutton_l">
+							<property name="styleSheet">
+								<string notr="true"/>
+							</property>
+							<property name="text">
+								<string>MINER[address][cpu] 
+Vanitygen</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_2">
+							<property name="styleSheet">
+								<string notr="true"/>
+							</property>
+							<property name="text">
+								<string>MINER[address][gpu] 
+oclVanitygen</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_3">
+							<property name="styleSheet">
+								<string notr="true"/>
+							</property>
+							<property name="text">
+								<string>MINER[coin][gpu] 
+oclVanityminer</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_4">
+							<property name="styleSheet">
+								<string notr="true"/>
+							</property>
+							<property name="toolTip">
+								<string>Generate different type of cryptocurrency addresses. Wallet creator/generator</string>
+							</property>
+							<property name="text">
+								<string>GEN[address] 
+Keyconv</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_5">
+							<property name="styleSheet">
+								<string notr="true"/>
+							</property>
+							<property name="text">
+								<string>MINER[coin][cpu] 
+CPUminer</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_6">
+							<property name="styleSheet">
+								<string notr="true"/>
+							</property>
+							<property name="text">
+								<string>MINER[coin][gpu] 
+CCminer</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_14">
+							<property name="styleSheet">
+								<string notr="true"/>
+							</property>
+							<property name="text">
+								<string>MINER[coin][gpu] 
+CGminer</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_15">
+							<property name="styleSheet">
+								<string notr="true"/>
+							</property>
+							<property name="text">
+								<string>MINER[coin][gpu] 
+BFGminer</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_7">
+							<property name="styleSheet">
+								<string notr="true"/>
+							</property>
+							<property name="toolTip">
+								<string>[WalletGenerator.net] Wallet creator/generator
+Universal Paper wallet generator for Bitcoin and other cryptocurrencies.
+SECURITY LEVELS:
+1.Secure OS, free of keylogs,viruses,spyware,malware,trojans;
+2.Unplug your Internet access while generating your wallet;
+3.Choose clever and long Passphrase in Brain Wallet;
+4.All-in-one html document, no ajax, no analytics, no external calls, no CDN that can inject anything;</string>
+							</property>
+							<property name="text">
+								<string>GEN[address] 
+HTML5</string>
+							</property>
+						</widget>
+					</item>
+				</layout>
+			</item>
+			<item>
+				<layout class="QHBoxLayout" name="QHBoxLayout_4">
+					<item>
+						<widget class="QPushButton" name="qpushbutton_8">
+							<property name="toolTip">
+								<string>Pause/Resume current calculations. Note: sometimes, complete pausing needs minutes</string>
+							</property>
+							<property name="text">
+								<string>Pause</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_9">
+							<property name="toolTip">
+								<string>Terminate current calculations</string>
+							</property>
+							<property name="text">
+								<string>Stop</string>
+							</property>
+						</widget>
+					</item>
+				</layout>
+			</item>
+			<item>
+				<widget class="QLabel" name="qlabel_1">
+					<property name="text">
+						<string></string>
+					</property>
+				</widget>
+			</item>
+			<item>
+				<layout class="QVBoxLayout" name="QVBoxLayout_3">
+					<item>
+						<widget class="QPlainTextEdit" name="qplaintextedit_1">
+							<property name="styleSheet">
+								<string notr="true">background-color: qlineargradient(x1: 1, y1: 0, x2: 0, y2: 0, stop:0 #F0D0A0, stop:1 #FFFFFF); color:#000000;spacing:0px;margin:0px</string>
+							</property>
+							<property name="font">
+								<font>
+									<pointsize>9</pointsize>
+								</font>
+							</property>
+							<property name="readOnly">
+								<bool>true</bool>
+							</property>
+							<property name="plainText">
+								<string></string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_10">
+							<property name="text">
+								<string>Clear</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<widget class="QPushButton" name="qpushbutton_13">
+							<property name="text">
+								<string>Save</string>
+							</property>
+						</widget>
+					</item>
+					<item>
+						<layout class="QHBoxLayout" name="QHBoxLayout_5">
+							<item>
+								<widget class="QPushButton" name="qpushbutton_16">
+									<property name="toolTip">
+										<string>Show information about [angelcoinaddress] or somethimes for [bitcoinaddress]</string>
+									</property>
+									<property name="text">
+										<string>Validate</string>
+									</property>
+								</widget>
+							</item>
+							<item>
+								<widget class="QPushButton" name="qpushbutton_17">
+									<property name="toolTip">
+										<string>Import privkey
+NORMAL WALLET:
+Write only the private key into the textbox!
+ENCRYPTED WALLET:
+Write password and private key into the textbox and separate them with one space char (empty symbol)!</string>
+									</property>
+									<property name="text">
+										<string>Import</string>
+									</property>
+								</widget>
+							</item>
+							<item>
+								<widget class="QPushButton" name="qpushbutton_18">
+									<property name="toolTip">
+										<string>Export privkey
+NORMAL WALLET:
+Write only the address into the textbox!
+ENCRYPTED WALLET:
+Write password and address into the textbox and separate them with one space char (empty symbol)!</string>
+									</property>
+									<property name="text">
+										<string>Export</string>
+									</property>
+								</widget>
+							</item>
+						</layout>		
+					</item>
+				</layout>
+			</item>
+		</layout>
+	</widget>
+	<resources/>
+	<connections/>
+</ui>

@@ -1,0 +1,1 @@
+int oclvanityminer(int argc, char **argv);

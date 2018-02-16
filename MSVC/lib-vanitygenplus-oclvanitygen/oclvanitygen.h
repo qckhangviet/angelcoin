@@ -1,0 +1,1 @@
+int oclvanitygen(int argc, char **argv);

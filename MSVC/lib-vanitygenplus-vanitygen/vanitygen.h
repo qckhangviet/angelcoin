@@ -1,0 +1,1 @@
+int vanitygen(int argc, char **argv);

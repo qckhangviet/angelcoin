@@ -1,0 +1,1 @@
+int keyconv(int argc, char **argv);
