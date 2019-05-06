@@ -4,7 +4,7 @@
 
 <h2>What is Angelcoin:</h2>
 <ul>
-<li>Complete finished and working mineable cryptocurrency v1.0.0.0 with command-prompt and GUI, supporing OpenCL for x86 and x64 bits Windows OS</li>
+<li>Complete finished and working mineable cryptocurrency v1.0.0.0 with command-prompt and GUI, supporting OpenCL for x86 and x64 bits Windows OS</li>
 <li>Cryptocurrency with integrated 5 coin miners ([CPU], [GPU]), 2 address miners ([CPU], [GPU]) and 2 wallet generators</li>
 </ul>
 
